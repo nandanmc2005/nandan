@@ -1,0 +1,4 @@
+a=int(input("Enter the first value ")
+b=int(input("enter the second value")
+sum=a+b
+print(sum)
